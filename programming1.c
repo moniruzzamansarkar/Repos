@@ -11,6 +11,8 @@ int main() {
         printf("%d is odd.", num);
 
     printf("Hello this is the changes code ");
+     printf("Hello this is the changes code ");
+    
     
     return 0;
 }
